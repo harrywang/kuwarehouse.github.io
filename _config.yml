@@ -20,6 +20,8 @@ show-nav-menu: true
 nav-menu:
 - text: About
   permalink: about
+- text: Blog
+  permalink: blog
 
 # use false to turn off any social media links
 twitter: false
@@ -31,7 +33,7 @@ github: false
 linkedin: false
 medium: false
 google-scholar: false
-email: mailto:support@kuwarehouse.com
+email: mailto:harryjwang@gmail.com
 
 # footer information
 footer-msg: "Powered by Tailpages"
