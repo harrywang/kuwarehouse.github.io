@@ -10,5 +10,3 @@ bundle exec jekyll serve
 ```
 
 Open it in your browser: http://localhost:4000
-
-run bundle add webrick according to https://github.com/github/pages-gem/issues/752 if needed
