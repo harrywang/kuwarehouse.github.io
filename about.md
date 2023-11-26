@@ -4,7 +4,7 @@ title: About
 permalink: about
 ---
 
-Kù (庫) means Warehouse in Chinese, which is one of the ancient Chinese bronze inscriptions. These inscriptions were either cast or engraved on ritual bronzes from the Shang Dynasty (1600 - 1046 BC) to the Zhou Dynasty (1046 - 256 BC). [[EN](https://en.wikipedia.org/wiki/Chinese_bronze_inscriptions), [ZH](https://zh.m.wikipedia.org/zh-hans/%E9%87%91%E6%96%87)].
+Kù (庫) means Warehouse in Chinese, which is one of the ancient Chinese bronze inscriptions. These inscriptions were either cast or engraved on ritual bronzes from the Shang Dynasty (1600 - 1046 BC) to the Zhou Dynasty (1046 - 256 BC). [[EN](https://en.wikipedia.org/wiki/Chinese_bronze_inscriptions), [ZH](https://zh.m.wikipedia.org/zh-hans/%E9%87%91%E6%96%87), [Ku](http://www.renlu.net/html/jiaguwenzidian_1116.html)]
 
 I am a researcher/educator/entrepreneur in AI and Data Science and started to learn woodworking in 2017. I enjoy designing and making wood objects in the small woodworking studio in my garage. You can check out some of my projects on [Instagram](https://www.instagram.com/ku_warehouse/). I also use blogs to document my projects - some of them are not related to woodworking.
 
